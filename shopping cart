@@ -1,3 +1,4 @@
+hi don
 $ pip install django
 $ django-admin startproject shopping_cart
 $ cd shopping_cart
